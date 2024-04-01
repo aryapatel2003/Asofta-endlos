@@ -194,6 +194,7 @@ a {
 
 .machine_image_btn .error_btn {
   gap: 130px;
+  /* position: relative; */
 }
 
 .lce_btn1 {
